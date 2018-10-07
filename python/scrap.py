@@ -26,7 +26,7 @@ since_date = "2000-01-01"
 until_date = "2018-03-09"
 
 #access_token = app_id + "|" + app_secret
-access_token = "EAACUf2p09hoBAMLaye3y72sQ3EbbyuOfVyKUi3423m4rAHODsrKoXnpMvH8RFLxVhhc7wR0mSbT4jBVbjZCYYxZAHZB1kokmjQieGuZBFvN46AS97LW0ZAH6N37K7OzZACAwZBR6ZA7jYwRJ43Nwb52EfiVpqylwTYc58X0ET74ycAZDZD"
+access_token = "*"
 #access_token ="a"
 def request_until_succeed(url):
     req = Request(url)
