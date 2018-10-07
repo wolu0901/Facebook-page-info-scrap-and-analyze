@@ -43,8 +43,8 @@ def read_csv(file):
 
 def nlp_ibm(text):
     natural_language_understanding = NaturalLanguageUnderstandingV1(
-      username='aac3846b-3997-427f-a00b-67abbc136129',
-      password='0TMJrZtDAJgb',
+      username='*',
+      password='*',
       version='2018-03-16')
 
     if text:
